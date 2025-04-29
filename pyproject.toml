@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "vc-a71p-a71pn"
+version = "0.1.0"
+description = "This Project aim's to revser the webprotocol user to controle the camera VC-A71P and VC-A71PN"
+authors = ["Vortex5Root"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+requests = {extras = ["socks"], version = "^2.32.3"}
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

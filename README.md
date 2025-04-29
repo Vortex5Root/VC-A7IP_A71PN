@@ -56,7 +56,7 @@ pip install git+https://github.com/Vortex5Root/VC-A71P_A71PN.git#egg=VC-A71P_A71
 
 Click on the following image to go to the Security Research:
 
-<a href=./VC-A71P_A71PN/Revser.md><img src="./img/wikipedia-svgrepo-com.svg" width=50></a>
+<a href=./VC-A71P_A71PN/Reviser.md><img src="./img/wikipedia-svgrepo-com.svg" width=50></a>
 
 <h2 align="center">Documentation</h2>
 

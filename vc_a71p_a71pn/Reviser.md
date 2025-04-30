@@ -58,6 +58,7 @@ pip install git+https://github.com/Vortex5Root/VC-A71P_A71PN.git#egg=VC-A71P_A71
 <h3 align="center">Login</h2>
 
 <h4 align="center"> Web Requests Overview </h4>
+
 ```json
 {
     "end_point": "http://192.168.100.100/cgi-bin/lums_login.cgi",
@@ -71,6 +72,7 @@ pip install git+https://github.com/Vortex5Root/VC-A71P_A71PN.git#egg=VC-A71P_A71
 ```
 
 <h3 align="center"> Event Trigger </h3>
+
 The login process is initiated through a `startLogin()` function that handles:
 - User input validation
 - Language selection
@@ -79,6 +81,7 @@ The login process is initiated through a `startLogin()` function that handles:
 - Error handling and responses
 
 <h3 align="center"> Connected Functions </h3>
+
 ```javascript
 function generateUUID() {
     var d = new Date().getTime();
@@ -96,6 +99,7 @@ function generateUUID() {
 <h3 align="center">Live Interaction</h3>
 
 <h4 align="center"> Motion Control </h4>
+
 ```json
 {
     "end_point": "/cgi-bin/lums_setpantilt.cgi",
@@ -107,6 +111,7 @@ function generateUUID() {
 ```
 
 <h3 align="center"> Zoom Control </h3>
+
 ```json
 {
     "end_point": "/cgi-bin/lums_setlens.cgi",

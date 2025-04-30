@@ -62,7 +62,7 @@ Click on the following image to go to the Security Research:
 
 Click on the following image to go to the Documentation:
 
-<a href=./VC-A7IP_A71PN/DOCUMENTATION.md><img src="./img/wikipedia-svgrepo-com.svg" width=50></a> 
+<a href=./vc_a71p_a71pn/DOCUMENTATION.MD><img src="./img/wikipedia-svgrepo-com.svg" width=50></a> 
 
 <h2 align="center">Acknowledgements</h2>
 
